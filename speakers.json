@@ -1,0 +1,39 @@
+
+[
+  {
+    "name": "Yochi Mormor",
+    "image": "images/speaker.png",
+    "summary": "Expert in AI and machine learning.",
+    "summary2": "Yochi is a leading researcher in the field of artificial intelligence, with a focus on deep learning and neural networks."
+  },
+  {
+    "name": "John Doe",
+    "image": "images/speaker1.png",
+    "summary": "Pioneer in web development and design.",
+    "summary2": "John has over 20 years of experience in building beautiful and user-friendly websites and applications."
+  },
+  {
+    "name": "Jane Doe",
+    "image": "images/speaker2.png",
+    "summary": "Specialist in cybersecurity and data privacy.",
+    "summary2": "Jane is a certified ethical hacker and has helped numerous organizations secure their digital assets."
+  },
+  {
+    "name": "Peter Jones",
+    "image": "images/speaker4.png",
+    "summary": "Visionary in the field of renewable energy.",
+    "summary2": "Peter is the founder of a successful startup that is revolutionizing the solar power industry."
+  },
+  {
+    "name": "Mary Jane",
+    "image": "images/speaker5.png",
+    "summary": "Expert in digital marketing and social media.",
+    "summary2": "Mary has helped businesses of all sizes grow their online presence and reach new customers."
+  },
+  {
+    "name": "Chris Smith",
+    "image": "images/speaker6.png",
+    "summary": "Leader in the field of blockchain and cryptocurrency.",
+    "summary2": "Chris is a well-known speaker and author on the topic of decentralized technologies."
+  }
+]

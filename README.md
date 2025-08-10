@@ -1,42 +1,39 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Event Explorer
 
-# Event Explorer - AlX Final Project
+Event Explorer is a modern and responsive webpage for an upcoming conference. It is built with HTML, CSS, and JavaScript, and it showcases the event's program, featured speakers, and partners.
 
 ![Mobile version](./mobile.png)
 ![Desktop version](./desktop.png)
 
+## Features
 
-> An event page for an upcoming conference
+*   **Responsive Design:** The website is fully responsive and works on all devices, from mobile phones to desktop computers.
+*   **Dynamic Speaker Section:** The featured speakers are loaded dynamically from a JSON file, making it easy to update the speaker list without changing the code.
+*   **Mobile-First Approach:** The website is designed with a mobile-first approach, ensuring a great user experience on smaller screens.
 
 ## Built With
 
-- HTML
-- CSS
-- JavaScript
-
-## See it in action
-
-[Click here to see project](https://github.com/giantcobat/EVENT-EXPLORER.git)
-
-
+*   HTML
+*   CSS
+*   JavaScript
 
 ## Getting Started
 
+To get a local copy up and running, follow these simple steps:
 
-To get a local copy up and running follow these simple example steps.
+1.  Clone the repository:
 
-### Prerequisites
+```bash
+git clone https://github.com/giantcobat/EVENT-EXPLORER.git
+```
 
-### Setup
-
-All you have to do is clone and you are good to go
-
+2.  Open the `index.html` file in your browser.
 
 ## Author
 
-- GitHub: [@cwaku](https://github.com/giantcobat)
-- LinkedIn: [Ricky Mormor](www.linkedin.com/in/caleb-oheneba-takyi)
-
+*   **Caleb Oheneba-Takyi**
+    *   GitHub: [@giantcobat](https://github.com/giantcobat)
+    *   LinkedIn: [Caleb Oheneba-Takyi](https://www.linkedin.com/in/caleb-oheneba-takyi)
 
 ## 🤝 Contributing
 
@@ -47,9 +44,6 @@ Feel free to check the [issues page](https://github.com/giantcobat/EVENT-EXPLORE
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-
-
 
 ## 📝 License
 
